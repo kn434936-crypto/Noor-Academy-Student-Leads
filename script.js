@@ -1,6 +1,5 @@
 // Replace this with your deployed Google Apps Script Web App URL ending in /exec.
-const GOOGLE_SCRIPT_URL = "PASTE_YOUR_GOOGLE_APPS_SCRIPT_WEB_APP_URL_HERE";
-
+const GOOGLE_SCRIPT_URL =https://script.google.com/macros/s/AKfycbziq0NT0Kp_bDtUFTAb52FNTcm460uz3uUhFJrEnXabGFvB7RReTObbBVH1Qve-42c/exec
 const form = document.getElementById("leadForm");
 const button = document.getElementById("submitBtn");
 const modal = document.getElementById("successModal");
